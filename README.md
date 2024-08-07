@@ -54,5 +54,6 @@
 [4. 프론트엔드 개발자 기술면접 인터뷰 질문모음](https://realmojo.tistory.com/300#%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85)
 <br>
 [5. 프론트엔드 면접 준비](https://github.com/junh0328/prepare_frontend_interview/tree/main)
-
+<br>
+[6. 모던 자바스크립트 Deep Dive](https://product.kyobobook.co.kr/detail/S000001766445)
 <br>
