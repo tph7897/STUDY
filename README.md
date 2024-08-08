@@ -4,12 +4,12 @@
 
 ## 주제별 질문 목차
 
-- [1. Computer Science](#1-ComputerScience)
-- [2. JavaScript](#2-JavaScript)
-- [3. HTML](#3-HTML)
-- [4. CSS](#3-CSS)
-- [5. React](#5-React)
-- [6. 알고리즘과 자료구조](#5-알고리즘과자료구조)
+- [1. Computer Science](#1-computer-science)
+- [2. JavaScript](#2-javascript)
+- [3. HTML](#3-html)
+- [4. CSS](#4-css)
+- [5. React](#5-react)
+- [6. 알고리즘과 자료구조](#6-알고리즘과-자료구조)
 - [7. 기타](#7-기타)
 - [레퍼런스](#8-레퍼런스)
 
@@ -17,9 +17,30 @@
 
 ## 1. Computer Science
 
+## HTTP
+
+- [HTTP란 뭔가요?](https://github.com/tph7897/FRONT-END_interview/blob/main/01.%20Computer%20Science.md#01-http%EB%9E%80-%EB%AD%94%EA%B0%80%EC%9A%94)
+
+- [HTTP프로토콜의 가장 큰 특징이 뭔가요??](https://github.com/tph7897/FRONT-END_interview/blob/main/01.%20Computer%20Science.md#02-http%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%98-%EA%B0%80%EC%9E%A5-%ED%81%B0-%ED%8A%B9%EC%A7%95%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94)
+
+- [URL은 뭔가요??](https://github.com/tph7897/FRONT-END_interview/blob/main/01.%20Computer%20Science.md#03-url%EC%9D%80-%EB%AD%94%EA%B0%80%EC%9A%94)
+
 <br>
 
 ## 2. JavaScript
+
+### 프로그래밍
+
+- [프로그래밍이란 뭐라고 생각하나요?](https://github.com/tph7897/FRONT-END_interview/blob/main/02.%20JavaScript.md#01-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80-%EB%AD%90%EB%9D%BC%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EB%82%98%EC%9A%94)
+- [컴파일러는 뭐고 인터프리터는 뭔가요?](https://github.com/tph7897/FRONT-END_interview/blob/main/02.%20JavaScript.md#02-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EB%8A%94-%EB%AD%90%EA%B3%A0-%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0%EB%8A%94-%EB%AD%94%EA%B0%80%EC%9A%94)
+
+### 자바스크립트란
+
+- [자바스크립트의 특징은 뭐가 있나요?](https://github.com/tph7897/FRONT-END_interview/blob/main/02.%20JavaScript.md#01-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%ED%8A%B9%EC%A7%95%EC%9D%80-%EB%AD%90%EA%B0%80-%EC%9E%88%EB%82%98%EC%9A%94)
+
+### 변수
+
+- [변수란 무엇인가요?](https://github.com/tph7897/FRONT-END_interview/blob/main/02.%20JavaScript.md#01-%EB%B3%80%EC%88%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
 
 <br>
 
