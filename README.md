@@ -46,9 +46,9 @@
 
 ### DOCTYPE
 
-- [DOCTYPE에 대하여 설명하시오.](https://github.com/tph7897/FRONT-END_interview/blob/main/02.%20JavaScript.md#01-%EB%B3%80%EC%88%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
-- [meta 태그에 대해서 알고 있나요??📌](https://github.com/tph7897/FRONT-END_interview/blob/main/02.%20JavaScript.md#01-%EB%B3%80%EC%88%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
-- [meta 태그의 요소에 대해서 아는대로 말해보세요📌](https://github.com/tph7897/FRONT-END_interview/blob/main/02.%20JavaScript.md#01-%EB%B3%80%EC%88%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
+- [DOCTYPE에 대하여 설명하시오.](https://github.com/tph7897/FRONT-END_interview/blob/main/03.%20HTML.md#doctype%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4)
+- [meta 태그에 대해서 알고 있나요??📌](https://github.com/tph7897/FRONT-END_interview/blob/main/03.%20HTML.md#meta-%ED%83%9C%EA%B7%B8%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94)
+- [meta 태그의 요소에 대해서 아는대로 말해보세요📌](https://github.com/tph7897/FRONT-END_interview/blob/main/03.%20HTML.md#meta-%ED%83%9C%EA%B7%B8%EC%9D%98-%EC%9A%94%EC%86%8C%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%84%EB%8A%94%EB%8C%80%EB%A1%9C-%EB%A7%90%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94)
 
 <br>
 
