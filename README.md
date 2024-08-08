@@ -17,12 +17,10 @@
 
 ## 1. Computer Science
 
-## HTTP
+### HTTP
 
 - [HTTP란 뭔가요?](https://github.com/tph7897/FRONT-END_interview/blob/main/01.%20Computer%20Science.md#01-http%EB%9E%80-%EB%AD%94%EA%B0%80%EC%9A%94)
-
 - [HTTP프로토콜의 가장 큰 특징이 뭔가요??](https://github.com/tph7897/FRONT-END_interview/blob/main/01.%20Computer%20Science.md#02-http%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%98-%EA%B0%80%EC%9E%A5-%ED%81%B0-%ED%8A%B9%EC%A7%95%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94)
-
 - [URL은 뭔가요??](https://github.com/tph7897/FRONT-END_interview/blob/main/01.%20Computer%20Science.md#03-url%EC%9D%80-%EB%AD%94%EA%B0%80%EC%9A%94)
 
 <br>
@@ -45,6 +43,12 @@
 <br>
 
 ## 3. HTML
+
+### DOCTYPE
+
+- [DOCTYPE에 대하여 설명하시오.](https://github.com/tph7897/FRONT-END_interview/blob/main/02.%20JavaScript.md#01-%EB%B3%80%EC%88%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
+- [meta 태그에 대해서 알고 있나요??📌](https://github.com/tph7897/FRONT-END_interview/blob/main/02.%20JavaScript.md#01-%EB%B3%80%EC%88%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
+- [meta 태그의 요소에 대해서 아는대로 말해보세요📌](https://github.com/tph7897/FRONT-END_interview/blob/main/02.%20JavaScript.md#01-%EB%B3%80%EC%88%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
 
 <br>
 
